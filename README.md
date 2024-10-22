@@ -48,7 +48,7 @@ A card game built using OOP in Python. Deployed as a Docker container and availa
 Full-stack task tracking application with Flask backend and JavaScript frontend. Pytest used for robust unit testing, deployed using Docker.  
 *Technologies: Flask, JavaScript, Pytest, Docker*
 
-#### 🎮 [JavaScript Game](https://github.com/godziller/js-game)  
+#### 🎮 [JavaScript Game](https://github.com/godziller/cs1116_web_dev)  
 **JavaScript**  
 A browser-based game with dynamic interactions, scoring, and optimized gameplay using JavaScript.  
 *Technologies: JavaScript, HTML5, CSS3*
