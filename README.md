@@ -43,6 +43,11 @@ Aspiring software engineer with hands-on experience in full-stack web developmen
 A card game built using OOP in Python. Deployed as a Docker container and available on DockerHub.  
 *Technologies: Python, Docker, DockerHub*
 
+#### 🔧 [MIPS Assembly Floating Point Conversion](https://github.com/godziller/cs2705_comp_arch/tree/master/ca_assignment)  
+**MIPS Assembly**  
+A low-level MIPS assembly project that converts a floating-point string input into its hexadecimal representation using IEEE 754 floating-point arithmetic. This required in-depth understanding of floating-point operations, bitwise manipulation, and memory handling in MIPS.  
+*Technologies: MIPS Assembly, IEEE 754, mips-linux-gnu-as, xxd, objdump*
+
 #### ✅ [Task Tracking To-Do App](https://github.com/godziller/cs1116_web_dev/tree/master/public_html/cgi-bin/ca1)  
 **Flask** | **JavaScript**  
 Full-stack task tracking application with Flask backend and JavaScript frontend. Pytest used for robust unit testing, deployed using Docker.  
