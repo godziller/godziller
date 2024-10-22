@@ -38,7 +38,7 @@ Aspiring software engineer with hands-on experience in full-stack web developmen
 
 ### 📂 **Projects**
 
-#### 🃏 [Pontoon Card Game](https://github.com/godziller/pontoon-game)  
+#### 🃏 [Pontoon Card Game](https://github.com/godziller/pontoon)  
 **Python** | **Docker**  
 A card game built using OOP in Python. Deployed as a Docker container and available on DockerHub.  
 *Technologies: Python, Docker, DockerHub*
