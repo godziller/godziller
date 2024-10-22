@@ -43,7 +43,7 @@ Aspiring software engineer with hands-on experience in full-stack web developmen
 A card game built using OOP in Python. Deployed as a Docker container and available on DockerHub.  
 *Technologies: Python, Docker, DockerHub*
 
-#### ✅ [Task Tracking To-Do App](https://github.com/godziller/task-tracker)  
+#### ✅ [Task Tracking To-Do App](https://github.com/godziller/cs1116_web_dev/tree/master/public_html/cgi-bin/ca1)  
 **Flask** | **JavaScript**  
 Full-stack task tracking application with Flask backend and JavaScript frontend. Pytest used for robust unit testing, deployed using Docker.  
 *Technologies: Flask, JavaScript, Pytest, Docker*
