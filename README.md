@@ -75,12 +75,5 @@ Alongside my technical skills, I’m an expert **guitar** and **bass** player. I
 
 ---
 
-### 📈 **GitHub Stats**
-![Darren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=godziller&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godziller&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 **Let’s Connect!**
 - [Email](mailto:darren@counihan.ie)
