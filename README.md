@@ -38,6 +38,17 @@ Aspiring software engineer with hands-on experience in full-stack web developmen
 
 ### 📂 **Projects**
 
+#### 🧮 [Matrix Multiplier Performance Benchmark] (https://github.com/godziller/matrix_multiplier)
+Python | Docker | Virtualization
+A Python-based matrix multiplier designed for performance benchmarking. The project measures the impact of different environments on computational performance. It implements matrix multiplication using NumPy and runs performance tests in multiple configurations:
+
+Native: Running the script directly on the host system.
+VirtualBox: Testing in a VirtualBox VM with varying system configurations.
+Docker (Native): Running the matrix multiplier in a Docker container on the host system.
+Docker in a VM: Docker image pushed to Docker Hub and tested in a container inside a VirtualBox VM.
+This project demonstrates how virtualization and containerization affect compute-heavy tasks like matrix multiplication.
+Technologies: Python, Docker, VirtualBox
+
 #### 🃏 [Pontoon Card Game](https://github.com/godziller/pontoon)  
 **Python** | **Docker**  
 A card game built using OOP in Python. Deployed as a Docker container and available on DockerHub.  
