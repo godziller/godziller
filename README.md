@@ -38,7 +38,7 @@ Aspiring software engineer with hands-on experience in full-stack web developmen
 
 ### 📂 **Projects**
 
-#### 🧮 [Matrix Multiplier Performance Benchmark] (https://github.com/godziller/matrix_multiplier)
+#### 🧮 [Matrix Multiplier Performance Benchmark](https://github.com/godziller/matrix_multiplier)
 Python | Docker | Virtualization
 A Python-based matrix multiplier designed for performance benchmarking. The project measures the impact of different environments on computational performance. It implements matrix multiplication using NumPy and runs performance tests in multiple configurations:
 
