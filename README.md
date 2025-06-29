@@ -81,7 +81,7 @@ A browser-based game with dynamic interactions, scoring, and optimized gameplay 
 ---
 
 ### 🛠️ **Certifications & Courses**
-- **Harvard CS50**: Deepening my knowledge of Python and problem-solving (in progress)
+- **Harvard CS50**: Deepening my knowledge of Python and problem-solving.
 - **RYA Competent Crew Sailing Certification**: Demonstrated leadership by captaining a 32-foot yacht
 
 ---
