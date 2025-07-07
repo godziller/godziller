@@ -38,7 +38,8 @@ Aspiring software engineer specializing in low-level programming, systems design
 
 **Game & Graphics**:  
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ---
 
@@ -94,4 +95,3 @@ Skilled **guitar** & **bass** player; expertise in **music production** (mixing,
 
 ### 📫 **Let’s Connect!**  
 - [Email](mailto:darren@counihan.ie)
-
